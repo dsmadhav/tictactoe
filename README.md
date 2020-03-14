@@ -1,0 +1,2 @@
+# tictactoe
+without minimax
